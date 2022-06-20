@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest)Back End feito em Nest.js para a criação da APi do projeto da Faculdade Senac PE.
+[Nest] (https://github.com/nestjs/nest) Back End feito em Nest.js para a criação da APi do projeto da Faculdade Senac PE.
 
 ## Instalação apos Download do projeto
 
