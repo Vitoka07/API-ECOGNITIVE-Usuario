@@ -8,11 +8,9 @@ eCOgnitive é um aplicativo que visa monitorar os gases emitidos na atmosfera pe
 [Nest] (https://github.com/nestjs/nest) Back End feito em Nest.js para a criação da APi do projeto da Faculdade Senac PE.
 
 ## Instalação apos Download do projeto
-
-```rodar esse comando no Terminal
+```Rodar esse comando no Terminal do VScode
 $ npm install
 ```
-
 ## Rodando a API
 
 ```bash
@@ -22,8 +20,8 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
-# Tecnologias utilizadas
-## BACK END
+## Tecnologias utilizadas
+# BACK END
 - Nest.js
 - Sequelize
 - MySql Workbench
@@ -42,3 +40,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
