@@ -1,16 +1,27 @@
 # ![](https://uploaddeimagens.com.br/images/003/846/382/full/icon.png)
 # Sobre o projeto
 
-eCOgnitive é um aplicativo que visa monitorar os gases emitidos na atmosfera pelas indústrias por intermédio de gráficos.
+eCOgnitive é um aplicativo que visa monitorar os gases emitidos na atmosfera pelas indústrias por intermédio de gráficos.Temos a intenção de apoiar indústrias de todo o mundo a encontrarem caminhos para a produção sustentável.Basicamente, o nome do projeto surgiu através de um pensamento ecológico, visto que o meio ambiente e as indústrias se beneficiam com o uso consciente dos recursos e das informações prestadas,como vocês podem ver o "CO" destacado no eCO vem do elemento químico Monóxido de Carbono que é um dos poluentes mais emitidos por indústria  e também o principal causador do efeito estufa. O sufixo "gnitive" em união com o "COgnitive" trás a ideia de "cognição", ou seja, conhecimento, que é a premissa da aplicação.
 
-## Description
+## Descrição
+[Nest] Back End feito em Nest.js para a criação da API do projeto da Faculdade Senac PE.
+ Nela temos todos os usuários cadastrados com todas as operações de CRUD implementadas e integradas com o Front End,
+ Disponível em <https://github.com/Vitoka07/Front-End-eCOgnitive>.
+ 
+![img](https://user-images.githubusercontent.com/95776771/174685884-178c020a-c60e-4bcf-9709-1be886dee341.png)
 
-[Nest] (https://github.com/nestjs/nest) Back End feito em Nest.js para a criação da APi do projeto da Faculdade Senac PE.
+
+## Tecnologias Utilizadas:
+ - Nest.js
+ - Sequelize
+ - MySql Workbench
+ - Insominia
 
 ## Instalação apos Download do projeto
-```Rodar esse comando no Terminal do VScode
+Rodar esse comando no Terminal do VScode:
+
 $ npm install
-```
+
 ## Rodando a API
 
 ```bash
@@ -20,24 +31,8 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
-## Tecnologias utilizadas
-# BACK END
-- Nest.js
-- Sequelize
-- MySql Workbench
-- Insominia
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
 ## License
 
 Nest is [MIT licensed](LICENSE).
 
+## Descrição
